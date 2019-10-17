@@ -19,3 +19,4 @@ deploy:
   draft: true
   on:
     tags: true
+  name: $TRAVIS_TAG (DRAFT)
